@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me 💫
 <br>🌱 I’m currently learning to feel confident in this beautiful <br>      tech-world. <br>🔭 I’m currently working on how to improve my web <br>      development skills.<br><br>
 
 
